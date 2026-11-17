@@ -8,3 +8,7 @@ The plugin marker POM (`org.cyclonedx.bom:org.cyclonedx.bom.gradle.plugin`) has 
 ## Expected behavior
 
 Renovate PRs link to the [source repository](https://github.com/CycloneDX/cyclonedx-gradle-plugin) and the [releases](https://github.com/CycloneDX/cyclonedx-gradle-plugin/releases).
+
+## Link to the Renovate PR
+
+https://github.com/renovatebot/renovate/pull/48124
