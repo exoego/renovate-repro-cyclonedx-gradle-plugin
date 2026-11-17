@@ -1,2 +1,2 @@
 [plugins]
-cyclonedx = { id = "org.cyclonedx.bom", version = "3.6.0" }
+cyclonedx = { id = "org.cyclonedx.bom", version = "3.6.1" }
